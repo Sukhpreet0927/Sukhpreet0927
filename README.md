@@ -15,6 +15,7 @@ Always excited to collaborate, build, and grow. Let’s connect!
 
 ## ⚙️ Tools
 <img src="https://skillicons.dev/icons?i=flask,fastapi,react,django,nextjs,nodejs,prisma,vite,git,maven,docker,neovim,aws,azure,tensorflow" />
+<img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png" alt="SwiftUI" width="40" height="40" />
 
 ## 📬 Contacts
 - **personal email**: [thisis_sukhpreet@yahoo.com](mailto:tanveenbalh@gmail.com)
