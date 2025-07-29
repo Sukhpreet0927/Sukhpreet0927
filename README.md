@@ -18,6 +18,7 @@ Always excited to collaborate, build, and grow. Let’s connect!
 <img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png" alt="SwiftUI" width="40" height="40" />
 
 ## 📬 Contacts
-- **personal email**: [thisis_sukhpreet@yahoo.com](mailto:tanveenbalh@gmail.com)
+- **personal email**: [thisis_sukhpreet@yahoo.com](mailto:thisis_sukhpreet@yahoo.com)
 - **linkedin**: [Sukhpreet Aulakh](https://www.linkedin.com/in/sukhpreetaulakh/)
+- **portfolio**: [Sukhpreet Singh Aulakh](https://my-portfolio-d8qb.vercel.app/)
 
