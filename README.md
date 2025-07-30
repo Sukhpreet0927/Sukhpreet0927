@@ -20,5 +20,5 @@ Always excited to collaborate, build, and grow. Let’s connect!
 ## 📬 Contacts
 - **personal email**: [thisis_sukhpreet@yahoo.com](mailto:thisis_sukhpreet@yahoo.com)
 - **linkedin**: [Sukhpreet Aulakh](https://www.linkedin.com/in/sukhpreetaulakh/)
-- **portfolio**: [Sukhpreet Singh Aulakh](https://my-portfolio-d8qb.vercel.app/)
+- **portfolio**: [Sukhpreet Singh Aulakh](https://sukhpreet-singh-aulakh.vercel.app/)
 
